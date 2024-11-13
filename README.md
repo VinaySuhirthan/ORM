@@ -54,6 +54,10 @@ class Bank_loanAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![bankloan](https://github.com/user-attachments/assets/2a1544cb-034a-4981-b6af-1ab383a4452b)
+<br>
+<br>
+<br>
+<br>
 ![user](https://github.com/user-attachments/assets/dddb5a1a-4c64-4c1d-b316-664a292e89b8)
 
 
